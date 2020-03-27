@@ -12,4 +12,4 @@ Servidor plataforma Windows Servidor Web IIS10
 
 Banco de de dados MYSQL  
 
-Link de Acesso > http://dashboard.sombrinhas.net/
+Link de Acesso > http://dados.sombrinhas.net/
