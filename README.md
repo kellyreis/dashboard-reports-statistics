@@ -9,6 +9,7 @@ Framework utilizado para os gráficos  Amcharts > https://www.amcharts.com/demos
 Framework utilizado para o frontend  Metronic Theme. 
 
 Servidor plataforma Windows Servidor Web IIS10 
+Versão do ISS para 64
 
 Banco de de dados MYSQL  
 
