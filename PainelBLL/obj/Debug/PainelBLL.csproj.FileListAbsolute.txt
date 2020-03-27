@@ -1,0 +1,17 @@
+D:\net\projeto\PainelBLL\bin\Debug\PainelBLL.dll
+D:\net\projeto\PainelBLL\bin\Debug\PainelBLL.pdb
+D:\net\projeto\PainelBLL\bin\Debug\PainelDAL.dll
+D:\net\projeto\PainelBLL\bin\Debug\PainelTO.dll
+D:\net\projeto\PainelBLL\bin\Debug\MySql.Data.dll
+D:\net\projeto\PainelBLL\bin\Debug\Google.Protobuf.dll
+D:\net\projeto\PainelBLL\bin\Debug\BouncyCastle.Crypto.dll
+D:\net\projeto\PainelBLL\bin\Debug\Ubiety.Dns.Core.dll
+D:\net\projeto\PainelBLL\bin\Debug\Renci.SshNet.dll
+D:\net\projeto\PainelBLL\bin\Debug\PainelDAL.pdb
+D:\net\projeto\PainelBLL\bin\Debug\PainelTO.pdb
+D:\net\projeto\PainelBLL\bin\Debug\MySql.Data.xml
+D:\net\projeto\PainelBLL\bin\Debug\Google.Protobuf.xml
+D:\net\projeto\PainelBLL\bin\Debug\Renci.SshNet.xml
+D:\net\projeto\PainelBLL\obj\Debug\PainelBLL.csprojResolveAssemblyReference.cache
+D:\net\projeto\PainelBLL\obj\Debug\PainelBLL.dll
+D:\net\projeto\PainelBLL\obj\Debug\PainelBLL.pdb

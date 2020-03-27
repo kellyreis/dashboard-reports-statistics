@@ -1,0 +1,70 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+    #chartdiv, #chartdiv_2, #chartdiv_3,
+    #chartdiv_4,#chartdiv_5 {
+        width: 100%;
+        height: 500px;
+    }
+
+    .display-list {
+        display: flex;
+        flex-direction: column;
+    }
+
+        .display-list span {
+            margin-bottom: 10px;
+        }
+
+    .flex-list {
+        display: flex;
+    }
+    a.btn.btn-sm.btn-default.btn-circle{
+        margin-right:5px;
+            margin-bottom: 10px;
+
+    }
+.ativo{
+    background:#a367dc !important;
+    border-color:#a367dc !important;
+    color:#fff !important;
+}
+.btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active {
+    color:#fff !important;
+    background-color: #a367dc !important;
+    border-color: #a367dc !important;
+}
+
+
+.portlet.box.green-haze{
+    
+    border: 1px solid #a367dc;
+  border-top: 1px solid #a367dc;
+}
+.margin{
+    margin-top:10px;
+}
+div#dashboard-report-range:hover,.page-header.navbar .top-menu .navbar-nav > li.dropdown .dropdown-toggle:hover{
+   background:transparent !important;
+}

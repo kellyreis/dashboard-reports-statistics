@@ -1,0 +1,5 @@
+D:\net\projeto\PainelTO\bin\Release\PainelTO.dll
+D:\net\projeto\PainelTO\bin\Release\PainelTO.pdb
+D:\net\projeto\PainelTO\obj\Release\PainelTO.csprojResolveAssemblyReference.cache
+D:\net\projeto\PainelTO\obj\Release\PainelTO.dll
+D:\net\projeto\PainelTO\obj\Release\PainelTO.pdb
